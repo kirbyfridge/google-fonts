@@ -11,6 +11,14 @@
   background-color: var(--light);
 }
 
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+}
+
 .custom-navbar {
   background-color: var(--teal);
 }
